@@ -1,5 +1,3 @@
-# Hi there 👋
-
 ## Back End
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg"></code>
