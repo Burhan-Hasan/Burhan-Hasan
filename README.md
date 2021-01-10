@@ -4,9 +4,6 @@
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/python-4.svg"></code>
-
-<br />
-
 ## Front End
 <!--
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg"></code>
@@ -18,12 +15,10 @@
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/javascript.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/node-js-logo.svg"></code>
-
 ## Database
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/t-sql.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg"></code>
-
 ## Other
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/windows-server.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg"></code>
