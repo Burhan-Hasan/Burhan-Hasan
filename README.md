@@ -4,15 +4,22 @@
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg"></code>
 
 <br />
-## Front End
 
-<code><img height="50" src=""></code>
-<code><img height="50" src=""></code>
-<code><img height="50" src=""></code>
-<code><img height="50" src=""></code>
+## Front End
+<!--
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg"></code>
+-->
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/webpack.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/typescript.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/javascript.svg"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/node-js-logo.svg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg"></code>
+
+## Database
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/t-sql.svg"></code>
 
 
 <!--
