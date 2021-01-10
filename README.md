@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg"></code>
+
 <!--
 **Burhan-Hasan/Burhan-Hasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
