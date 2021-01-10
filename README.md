@@ -1,7 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
 ## Back End
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/python-4.svg"></code>
 
 <br />
 
@@ -20,7 +21,12 @@
 ## Database
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/t-sql.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg"></code>
 
+## Other
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/windows-server.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg"></code>
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"></code>
 
 <!--
 **Burhan-Hasan/Burhan-Hasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
