@@ -1,7 +1,7 @@
 ## Back End
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/python-4.svg"></code>
+<img height="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
+<img height="40" src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg">
+<img height="40" src="https://cdn.worldvectorlogo.com/logos/python-4.svg">
 ## Front End
 <!--
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg"></code>
