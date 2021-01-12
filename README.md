@@ -1,12 +1,13 @@
 ## Languages and technologies
-<span><img height="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></span>&nbsp;
-<span><img height="40" src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg"></span>&nbsp;
-<span><img height="40" src="https://cdn.worldvectorlogo.com/logos/python-4.svg"></span>
-<span><img height="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg"></span>
-<span><img height="40" src="https://cdn.worldvectorlogo.com/logos/javascript.svg"></span>
+<span><img height="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></span>&nbsp;&nbsp;
+<span><img height="40" src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg"></span>&nbsp;&nbsp;
+<span><img height="40" src="https://cdn.worldvectorlogo.com/logos/python-4.svg"></span>&nbsp;&nbsp;
+<span><img height="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg"></span>&nbsp;&nbsp;
+<span><img height="40" src="https://cdn.worldvectorlogo.com/logos/javascript.svg"></span>&nbsp;&nbsp;
 <span><img height="40" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"></span>
-## Front End
 <!--
+## Front End
+
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg"></code>
