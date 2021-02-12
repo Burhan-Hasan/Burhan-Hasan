@@ -1,6 +1,4 @@
 <img height="120" src="https://raw.githubusercontent.com/NikiforovAll/csharp_workshop/main/guide/catjam.gif">
-Привеееет чувак :))
-<br >
 ## Languages and technologies
 <span><img height="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"></span>&nbsp;&nbsp;
 <span><img height="40" src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg"></span>&nbsp;&nbsp;
