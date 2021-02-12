@@ -3,8 +3,10 @@
 <span><img height="40" src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg"></span>&nbsp;&nbsp;
 <span><img height="40" src="https://cdn.worldvectorlogo.com/logos/python-4.svg"></span>&nbsp;&nbsp;
 <span><img height="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg"></span>&nbsp;&nbsp;
-<span><img height="40" src="https://cdn.worldvectorlogo.com/logos/javascript.svg"></span>&nbsp;&nbsp;
+<span><img height="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"></span>&nbsp;&nbsp;
 <span><img height="40" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"></span>
+<br >
+<img height="40" src="https://raw.githubusercontent.com/NikiforovAll/csharp_workshop/main/guide/catjam.gif">
 <!--
 ## Front End
 
