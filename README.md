@@ -6,7 +6,7 @@
 <span><img height="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"></span>&nbsp;&nbsp;
 <span><img height="40" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"></span>
 <br >
-<img height="40" src="https://raw.githubusercontent.com/NikiforovAll/csharp_workshop/main/guide/catjam.gif">
+<img height="120" src="https://raw.githubusercontent.com/NikiforovAll/csharp_workshop/main/guide/catjam.gif">
 <!--
 ## Front End
 
