@@ -1,42 +1,37 @@
-## Languages and technologies
-<span><img height="40" src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg"></span>&nbsp;&nbsp;
-<span><img height="40" src="https://cdn.worldvectorlogo.com/logos/python-4.svg"></span>&nbsp;&nbsp;
-<span><img height="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg"></span>&nbsp;&nbsp;
-<span><img height="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"></span>&nbsp;&nbsp;
-<span><img height="40" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"></span>
+# Hi, I'm Burhan 👋
 
-<!--
-## Front End
+**Tech Lead & Software Architect | .NET | Distributed Systems | AI Engineering**
 
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg"></code>
+I design and build backend systems, distributed architectures, and production-ready software. Currently expanding my expertise into **AI engineering, LLM-powered applications, and agentic systems**.
 
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/webpack.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/javascript.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/node-js-logo.svg"></code>
-## Database
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/t-sql.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg"></code>
-## Other
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/windows-server.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"></code>
--->
-<!--
-**Burhan-Hasan/Burhan-Hasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚙️ Tech Stack
 
-Here are some ideas to get you started:
+**Backend & Architecture**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-333333?style=flat-square)
+
+**AI Engineering — Exploring & Building**
+
+![LLMs](https://img.shields.io/badge/LLM_Applications-412991?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-0A7EA4?style=flat-square)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-333333?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Infrastructure & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### 🎯 Current Focus
+
+- Building reliable AI-powered applications and agentic workflows
+- Exploring MCP, tool integration, and AI-assisted software engineering
+- Applying distributed-systems and software-architecture principles to AI systems
+
+**My focus:** combining solid software engineering with practical AI to build systems that are reliable, maintainable, and useful.
